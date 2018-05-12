@@ -1,0 +1,55 @@
+_repo: The-Rolliad-in-Two-PartsProbationary-Odes-for-the-Laureatship--amp--Political-Eclogues_39726
+_version: 0.1.0
+alternative_title: "The Rolliad, in Two Parts\r\nProbationary Odes for the Laureatship\
+  \ and Political Eclogues"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Ellis, George
+    alias: Ellis, G. (George)
+    birthdate: 1753
+    deathdate: 1815
+    gutenberg_agent_id: '40185'
+    url: http://www.gutenberg.org/2009/agents/40185
+    wikipedia: https://en.wikipedia.org/wiki/George_Ellis_%28poet%29
+  - agent_name: Richardson, Joseph
+    birthdate: 1755
+    deathdate: 1803
+    gutenberg_agent_id: '40184'
+    url: http://www.gutenberg.org/2009/agents/40184
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Richardson_%281755%E2%80%931803%29
+  - agent_name: Laurence, French
+    alias: Lawrence, French
+    birthdate: 1757
+    deathdate: 1809
+    gutenberg_agent_id: '40187'
+    url: http://www.gutenberg.org/2009/agents/40187
+    wikipedia: https://en.wikipedia.org/wiki/French_Laurence
+  - agent_name: Tickell, Richard
+    birthdate: 1751
+    deathdate: 1793
+    gutenberg_agent_id: '40186'
+    url: http://www.gutenberg.org/2009/agents/40186
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Tickell
+description: ''
+gutenberg_issued: '2012-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Warton, Thomas, 1728-1790'
+- !lcsh 'Pitt, William, 1759-1806'
+- !lcsh 'Rolle of Stevenstone, John Rolle, Baron, 1750-1842'
+- !lcsh 'Great Britain -- Politics and government -- 1760-1789'
+- !lcsh 'Satire, English'
+- !lcc 'PR'
+title: 'The Rolliad, in Two Parts
+
+  Probationary Odes for the Laureatship & Political Eclogues'
+url: http://www.gutenberg.org/ebooks/39726
